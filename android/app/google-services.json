@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "676355584517",
+    "firebase_url": "https://everythingguitar-40708.firebaseio.com",
+    "project_id": "everythingguitar-40708",
+    "storage_bucket": "everythingguitar-40708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676355584517:android:889407bc10c6cf67cae26c",
+        "android_client_info": {
+          "package_name": "com.example.everythingguitar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676355584517-3kh4658tiqrmn5gk49tjbrm5evvhih7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMJgKFxoSSkHwX5dQXBgIt1VPqmxKWfXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676355584517-3kh4658tiqrmn5gk49tjbrm5evvhih7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
