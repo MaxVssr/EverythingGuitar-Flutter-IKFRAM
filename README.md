@@ -1,5 +1,7 @@
 # EverythingGuitar-Flutter-IKFRAM
 
+```November 3rd 2020```
+
 During my second year of my studies I had chosen to learn Flutter & Dart, using a Udemy course 
 to learn the general concept and the documentations to deepen my knowlegde. Eventually I decided 
 to make my own app. I am really into making music and I also give guitar lessons to a few of my 
